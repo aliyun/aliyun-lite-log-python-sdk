@@ -1,0 +1,10 @@
+.idea
+.vscode
+venv/
+elasticsearch
+kafka
+other
+.DS_Store
+aliyun_log_kafka_es_plugin_python_sdk.egg-info/
+build/
+dist/
