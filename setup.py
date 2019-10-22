@@ -59,16 +59,16 @@ classifiers = [
 ]
 
 long_description = """
-Python SDK for Alicloud Log Kafka ElasticSearch Plugin
-http://aliyun-log-kafka-es-plugin-python-sdk.readthedocs.io
+Python SDK for Aliyun Lite Log
+http://aliyun-lite-log-python-sdk.readthedocs.io
 """
 
 setup(
-	name='aliyun-log-kafka-es-plugin-python-sdk',
+	name='aliyun-lite-log-python-sdk',
 	version=version,
 	description='Aliyun log Kafka ElasticSearch Plugin Python client SDK',
 	author='Aliyun',
-	url='https://github.com/aliyun/aliyun-log-python-sdk',
+	url='https://github.com/aliyun/aliyun-lite-log-python-sdk',
 	install_requires=install_requires,
 	packages=packages,
 	classifiers=classifiers,
